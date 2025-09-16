@@ -5,54 +5,54 @@
 
 ✨ Features
 
-    🗨 Real-time chat interface with instant responses
+     🗨 Real-time chat interface with instant responses
 
-   ⏳ Typing and loading indicators for a natural conversational feel
+    ⏳ Typing and loading indicators for a natural conversational feel
 
-   📱 Fully responsive across mobile, tablet, and desktop
+    📱 Fully responsive across mobile, tablet, and desktop
 
-   ⚡ Powered by Gemini 1.5 Pro Flash API for advanced AI responses
+    ⚡ Powered by Gemini 1.5 Pro Flash API for advanced AI responses
 
-   🎨 Clean and modern UI built with Tailwind CSS
-
-   🛡 Secure API key management using .env
+    🎨 Clean and modern UI built with Tailwind CSS
+ 
+    🛡 Secure API key management using .env
 
 🛠 Tech Stack
 
-   .Frontend: React.js ⚛
+    .Frontend: React.js ⚛
 
-   .Styling: CSS / Tailwind 🎨
+    .Styling: CSS / Tailwind 🎨
 
-   .Backend / API: Node.js + Gemini API 🤖
+    .Backend / API: Node.js + Gemini API 🤖
 
-   .Environment Management: Vite 🌱
+    .Environment Management: Vite 🌱
 
 📂 Project Structure
 
      lumen-gemini/
      
-  ├─ public/                 # Static assets
+     ├─ public/                 # Static assets
    
-  │  └─ index.html
+     │  └─ index.html
   
-  ├─ src/
+     ├─ src/
   
-  │  ├─ assets/              # Images, icons, and fonts
+     │  ├─ assets/              # Images, icons, and fonts
   
-  │  ├─ components/          # Reusable React components (ChatBox, Message, Loader)
+     │  ├─ components/          # Reusable React components (ChatBox, Message, Loader)
   
-  │  ├─ pages/               # Page components (Home, About, Settings)
+     │  ├─ pages/               # Page components (Home, About, Settings)
   
-  │  ├─ services/            # API service for Gemini requests
+     │  ├─ services/            # API service for Gemini requests
   
-  │  ├─ styles/              # Tailwind / CSS files
+     │  ├─ styles/              # Tailwind / CSS files
   
-  │  ├─ App.jsx              # Main App component
+     │  ├─ App.jsx              # Main App component
+    
+     │  └─ main.jsx             # Entry point
   
-  │  └─ main.jsx             # Entry point
+     ├─ .env                    # Environment variables (API key)
   
-  ├─ .env                    # Environment variables (API key)
+     ├─ package.json            # Dependencies and scripts'
   
-  ├─ package.json            # Dependencies and scripts'
-  
-  └─ README.md               # Project documentation
+     └─ README.md               # Project documentation
