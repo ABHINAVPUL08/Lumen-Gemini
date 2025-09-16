@@ -74,3 +74,30 @@
      # 5. Start the development server
      npm run dev
 
+🌟 Unique Selling Points
+
+     Ultra-lightweight: Minimal dependencies for faster load times
+
+     Real-time AI chat: Feels like talking to Gemini in the browser
+
+     Customizable UI: Easily change themes, colors, or components
+
+     Extensible: Add new features like voice input or conversation history
+
+💡 Future Enhancements
+
+     Voice-based interaction using Web Speech API 🎤
+
+     Dark / light mode toggle 🌗
+
+     Conversation history saved locally 🗄️
+
+     Deploy as a PWA for offline usage 📱
+
+📸 Screenshots
+
+   <img width="1920" height="1020" alt="Gemini — Mozilla Firefox 16-09-2025 12_20_46 PM" src="https://github.com/user-attachments/assets/941328ea-36c7-4ceb-bdfa-0c2f5dd5289c" />
+
+   <img width="1920" height="1020" alt="Gemini — Mozilla Firefox 16-09-2025 12_21_18 PM" src="https://github.com/user-attachments/assets/ccc4e01d-676e-4a2d-9c41-97b9c2b5d283" />
+
+    
