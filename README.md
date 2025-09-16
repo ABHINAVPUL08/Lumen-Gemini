@@ -56,3 +56,21 @@
      ├─ package.json            # Dependencies and scripts'
   
      └─ README.md               # Project documentation
+
+🚀 Installation & Setup
+
+     # 1. Clone the repository
+     git clone https://github.com/<your-username>/lumen-gemini.git
+
+     # 2. Navigate into the project folder
+     cd lumen-gemini
+
+     # 3. Install dependencies
+     npm install
+
+     # 4. Create a .env file in the root and add your Gemini API key
+     VITE_GEMINI_API_KEY=your_api_key_here
+
+     # 5. Start the development server
+     npm run dev
+
