@@ -100,4 +100,6 @@
 
    <img width="1920" height="1020" alt="Gemini — Mozilla Firefox 16-09-2025 12_21_18 PM" src="https://github.com/user-attachments/assets/ccc4e01d-676e-4a2d-9c41-97b9c2b5d283" />
 
+   http://localhost:5173/
+
     
