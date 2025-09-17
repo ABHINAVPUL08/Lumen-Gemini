@@ -8,7 +8,7 @@
 // npm install @google/genai mime dotenv
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/generative-ai";
 
-const API_KEY = "AIzaSyAKWldQRLk-1JfROoUNUOocYFfUY3qCRwg"; 
+const API_KEY = "your api key"; 
 
 // Models to try (first one may hit quota, so fallback)
 const MODELS = ["gemini-1.5-flash", "gemini-1.5-pro", "gemini-2.0-flash"];
@@ -60,3 +60,4 @@ async function runChat(prompt) {
 }
 
 export default runChat;
+
